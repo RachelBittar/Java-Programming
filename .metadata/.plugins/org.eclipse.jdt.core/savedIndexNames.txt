@@ -1,4 +1,0 @@
-INDEX VERSION 1.130+/Users/rachelbittar/Desktop/MyProjects-RB/Java-Programming/.metadata/.plugins/org.eclipse.jdt.core
-1828089775.index
-2274769136.index
-3950620549.index
